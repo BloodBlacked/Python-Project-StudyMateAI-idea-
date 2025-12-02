@@ -24,10 +24,10 @@ The application uses standard Python libraries, so **no external `pip` installat
 ## 📥 Installation & Usage
 
 1.  **Clone or Download** the repository.
-2.  Ensure you have the script file saved (e.g., `StudyMate_push_to_talk_FULL.py`).
+2.  Ensure you have the script file saved (e.g., `StudyMateAI.py`).
 3.  Open your terminal or command prompt.
 4.  Navigate to the folder containing the file.
 5.  Run the application:
 
 ```bash
-python StudyMate_push_to_talk_FULL.py
+python StudyMateAI.py
